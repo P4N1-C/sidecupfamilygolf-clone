@@ -36,6 +36,7 @@ html, body {
   position: fixed;
   z-index: 99;
   transition: all .25s;
+  pointer-events: none;
 }
 
 #cursor-blur {
